@@ -1,6 +1,5 @@
 ## 👋 Hi there, Nice to see you!  ![Profile views](https://komarev.com/ghpvc/?username=rei-codes)
 
-
 I'm Hasan, Flutter developer from  Istanbul, Turkey!
 
 I'm a Flutter developer & UI/UX Designer, I design and build mobile apps, also write articles on Medium about Flutter and programming, too!
@@ -16,11 +15,6 @@ You can find anything about me and my projects in detail on my [Personal Website
 - 🌱 I’m currently learning everything about Flutter and programming
   
 - 💬 Ask me about anything Flutter
-
-- 📫 How to reach me:
-  - Email: [hasanbb1567@gmail.com](mailto:hasanbb1567@gmail.com)
-  - Telegram: [rei_codes](https://t.me/rei_codes)
-  - LinkedIn: [Hasan Basri Bayat](https://linkedin.com/in/hasan-basri-bayat-01403118a)
 
 ## My latest articles on Medium
 
