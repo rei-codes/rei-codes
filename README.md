@@ -7,8 +7,8 @@ I'm a Flutter developer & UI/UX Designer, I design and build mobile apps, also w
 You can find anything about me and my projects in detail on my [Personal Website](https://rei.codes) ✨
 
 - 🔭 I’m currently working on
-  - Flutter apps
-  - Open-source projects
+  - [Flutter apps](https://rei.codes/projects)
+  - [Open-source projects](https://github.com/rei-codes?tab=repositories) 
   - [Medium articles](https://medium.com/@rei-codes)
   - [Designs for never ending side projects](https://www.figma.com/@rei_codes)
   
